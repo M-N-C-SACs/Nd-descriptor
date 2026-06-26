@@ -1,0 +1,1 @@
+Data availability. The structures used in this study, together with the corresponding Nd values and oxygen-intermediate adsorption energies, are accessible at https://github.com/M-N-C-SACs/Nd-descriptor.
